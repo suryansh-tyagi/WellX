@@ -54,7 +54,7 @@ https://www.youtube.com/watch?si=iPAKIxuTjq638g2T&v=6sU5F-xZrPo&feature=youtu.be
 
 - Expand dataset (100+ conditions)  
 - Add AI-based symptom analysis (by using api key - for better & accurate results)
-- Enable user accounts & history tracking  
+- Enable user accounts & history tracking for personalised results
 - Add voice-based symptom input + more languages  
 - Include calorie/nutrition tracker  
 - Optional doctor-consult connect feature  
