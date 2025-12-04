@@ -64,6 +64,33 @@ https://www.youtube.com/watch?si=iPAKIxuTjq638g2T&v=6sU5F-xZrPo&feature=youtu.be
 
 To try or build the app, clone the repository and open it in Android Studio.
 
+## App Screenshots
 
+### Home Screen  
+![Home Page](media/Home-Page.png)
+
+### Menu  
+![Menu](media/Menu.png)
+
+### Settings  
+![Settings](media/Settings.png)
+
+### Profile Page  
+![Profile Page](media/Profile-Page.png)
+
+### FAQs  
+![FAQs](media/FAQ's.png)
+
+### Feedback  
+![Feedback](media/Feedback.png)
+
+### Recent History  
+![Recent History](media/Recent-Hisotry.png)
+
+### Results – Home Remedies  
+![Results - Remedies](media/Result-Home%20Remedies.png)
+
+### Results – Diet Advice + When to See a Doctor  
+![Results - Diet + Advice](media/Result-Dietary%20Advice%20+%20When%20to%20see%20a%20doctor.png)
 
 
