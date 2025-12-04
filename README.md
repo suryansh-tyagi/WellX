@@ -13,6 +13,15 @@ WellX offers:
 
 This project was developed using Android Studio, with AI-assisted coding (ChatGPT, Gemini, and Perplexity) for debugging, logic, and feature implementation. The app uses a custom JSON-based dataset and Firebase Cloud Messaging for notifications.
 
+## APK Download
+
+You can download and install the WellX app using the link below:
+
+👉 [Download WellX.apk](apk/WellX.apk)
+
+(Allow installation from unknown sources on your Android device.)
+
+
 ## Demo
 
 Watch the working MVP:  
