@@ -62,5 +62,8 @@ https://www.youtube.com/watch?si=iPAKIxuTjq638g2T&v=6sU5F-xZrPo&feature=youtu.be
 
 ## Getting Started
 
-To try/build the app:
+To try or build the app, clone the repository and open it in Android Studio.
+
+
+
 
